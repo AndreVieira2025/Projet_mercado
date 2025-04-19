@@ -1,0 +1,7 @@
+flask==2.3.2          # Para aplicações web
+requests==2.31.0      # Para fazer requisições HTTP
+numpy==1.25.2         # Para cálculos numéricos
+pandas==2.1.1         # Para manipulação de dados
+sqlalchemy==2.0.21    # Para trabalhar com bancos de dados
+
+
